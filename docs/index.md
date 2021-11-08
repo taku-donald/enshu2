@@ -1,3 +1,20 @@
+body {
+  background: lightcyan;
+  width: 800px;
+  margin: auto;
+}
+
+h1 {
+  color: maroon;
+  text-align: center;
+}
+
+p {
+  color: gray;
+  border: 1px solid gray;
+  padding: 10px;
+}
+
 # h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading
